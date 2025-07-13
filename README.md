@@ -37,13 +37,13 @@
 <p align="center">
   <img src="./images/circuit_setup_real.png">
   <br>
-  <em>실제 회로 및 서보 모터 전체 구성 모습</em>
+  <em>실제 회로 및 서보 모터 전체 구성</em>
 </p>
 
 <p align="center">
   <img src="./images/circuit_diagram.png">
   <br>
-  <em>회로 다이어그램 및 전원/모터 연결 흐름</em>
+  <em>회로 다이어그램 및 전원·모터 연결 구조</em>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 <p align="center">
   <img src="./images/cad_model.png">
   <br>
-  <em>Fusion 360 기반 로봇 팔 전체 CAD 모델</em>
+  <em>Fusion 360 기반 로봇 팔 전체 CAD 설계</em>
 </p>
 
 ---
