@@ -74,11 +74,13 @@
 
 ## 🗂 프로젝트 구조
 robot-arm-project/
-├── frontend/ # IMU 및 압력 센서 장착 장갑  
-├── backend/ # Raspberry Pi 기반 모터 제어 코드  
-├── cad-model/ # Fusion 360 3D 모델 및 출력 설계 파일  
-├── hardware/ # ESP32 및 센서 회로, 배선  
-├── docs/ # 보고서 및 발표 자료  
+├── software/
+│   ├── glove/      # 장갑용 센서 코드
+│   └── controller/ # 제어용 라즈베리파이 코드
+├── hardware/
+│   ├── cad-model/
+│   └── 회로 배선 등
+├── docs/
 └── README.md
 
 ---
