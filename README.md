@@ -34,6 +34,9 @@
 - Fusion 360: 로봇 팔 모델링 및 3D 출력 설계
 - CircuitPython ServoKit 라이브러리
 
+![회로 및 서보 모터 구성](./images/circuit_setup_real.png)
+![회로 다이어그램](./images/circuit_diagram.png)
+
 ---
 
 ## ⚙️ 기능 및 흐름
@@ -51,6 +54,8 @@
 3. Bluetooth로 Raspberry Pi에 전송
 4. Raspberry Pi가 PCA9685와 연동해 다채널 서보 모터 제어
 5. 그리퍼 포함 로봇 팔 실시간 제어
+
+![3D CAD 모델](./images/cad_model.png)
 
 ---
 
@@ -94,6 +99,10 @@ robot-arm-project/
 - 직관적인 손 움직임과 그리퍼 동작의 실시간 반영
 - 무선 제어 환경에서 로봇 팔이 물체를 집고 놓는 등 실제 작업 시연
 - 위험하거나 사람이 들어가기 어려운 장소에서 응용 가능한 가능성 입증
+
+![장갑 및 그리퍼 시연 1](./images/glove_demo_1.png)
+![장갑 및 그리퍼 시연 2](./images/glove_demo_2.png)
+![최종 로봇 팔 데모](./images/final_demo.png)
 
 ---
 
