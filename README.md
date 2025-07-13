@@ -102,7 +102,7 @@ robot-arm-project/
 
 ![장갑 및 그리퍼 시연 1](./images/glove_demo_1.png)
 ![장갑 및 그리퍼 시연 2](./images/glove_demo_2.png)
-![최종 로봇 팔 데모](./images/final_demo.png)
+![최종 로봇 팔 데모](./images/final_demo.jpg)
 
 ---
 
