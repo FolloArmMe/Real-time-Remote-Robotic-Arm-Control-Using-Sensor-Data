@@ -121,19 +121,19 @@ robot-arm-project/
 <p align="center">
   <img src="./images/glove_demo_1.png">
   <br>
-  <em>장갑 착용 및 그리퍼 제어 첫 시연 모습</em>
+  <em>장갑 착용 후 그리퍼 테스트 전 초기 상태</em>
 </p>
 
 <p align="center">
   <img src="./images/glove_demo_2.png">
   <br>
-  <em>장갑 및 그리퍼 제어 추가 시연 (각도 테스트)</em>
+  <em>손을 구부릴 때 그리퍼가 물체를 집는 동작 시연</em>
 </p>
 
 <p align="center">
   <img src="./images/final_demo.jpg">
   <br>
-  <em>최종 데모: 물체를 집는 로봇 팔 동작</em>
+  <em>최종 완성된 로봇 팔 전체 동작 모습</em>
 </p>
 
 ---
