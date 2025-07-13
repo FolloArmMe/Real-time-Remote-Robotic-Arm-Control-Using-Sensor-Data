@@ -34,8 +34,17 @@
 - Fusion 360: 로봇 팔 모델링 및 3D 출력 설계
 - CircuitPython ServoKit 라이브러리
 
-![회로 및 서보 모터 구성](./images/circuit_setup_real.png)
-![회로 다이어그램](./images/circuit_diagram.png)
+<p align="center">
+  <img src="./images/circuit_setup_real.png">
+  <br>
+  <em>실제 회로 및 서보 모터 전체 구성 모습</em>
+</p>
+
+<p align="center">
+  <img src="./images/circuit_diagram.png">
+  <br>
+  <em>회로 다이어그램 및 전원/모터 연결 흐름</em>
+</p>
 
 ---
 
@@ -55,17 +64,21 @@
 4. Raspberry Pi가 PCA9685와 연동해 다채널 서보 모터 제어
 5. 그리퍼 포함 로봇 팔 실시간 제어
 
-![3D CAD 모델](./images/cad_model.png)
+<p align="center">
+  <img src="./images/cad_model.png">
+  <br>
+  <em>Fusion 360 기반 로봇 팔 전체 CAD 모델</em>
+</p>
 
 ---
 
 ## 🗂 프로젝트 구조
 robot-arm-project/
-├── frontend/ # IMU 및 압력 센서 장착 장갑
-├── backend/ # Raspberry Pi 기반 모터 제어 코드
-├── cad-model/ # Fusion 360 3D 모델 및 출력 설계 파일
-├── hardware/ # ESP32 및 센서 회로, 배선
-├── docs/ # 보고서 및 발표 자료
+├── frontend/ # IMU 및 압력 센서 장착 장갑  
+├── backend/ # Raspberry Pi 기반 모터 제어 코드  
+├── cad-model/ # Fusion 360 3D 모델 및 출력 설계 파일  
+├── hardware/ # ESP32 및 센서 회로, 배선  
+├── docs/ # 보고서 및 발표 자료  
 └── README.md
 
 ---
@@ -100,9 +113,23 @@ robot-arm-project/
 - 무선 제어 환경에서 로봇 팔이 물체를 집고 놓는 등 실제 작업 시연
 - 위험하거나 사람이 들어가기 어려운 장소에서 응용 가능한 가능성 입증
 
-![장갑 및 그리퍼 시연 1](./images/glove_demo_1.png)
-![장갑 및 그리퍼 시연 2](./images/glove_demo_2.png)
-![최종 로봇 팔 데모](./images/final_demo.jpg)
+<p align="center">
+  <img src="./images/glove_demo_1.png">
+  <br>
+  <em>장갑 착용 및 그리퍼 제어 첫 시연 모습</em>
+</p>
+
+<p align="center">
+  <img src="./images/glove_demo_2.png">
+  <br>
+  <em>장갑 및 그리퍼 제어 추가 시연 (각도 테스트)</em>
+</p>
+
+<p align="center">
+  <img src="./images/final_demo.jpg">
+  <br>
+  <em>최종 데모: 물체를 집는 로봇 팔 동작</em>
+</p>
 
 ---
 
