@@ -66,7 +66,7 @@ robot-arm-project/
 ---
 
 ## 👥 팀명 및 역할
-- **팀명**: Team FollowArmMe (팔 + Follow Me 언어유희)
+- **팀명**: 팔로미
 - **팀원**
   - 신통화: Bluetooth 통신 모듈, 압력 센서 제어
   - 박준호: 라즈베리파이 환경 구축, IMU 센서 제어, 통합 제어 로직
